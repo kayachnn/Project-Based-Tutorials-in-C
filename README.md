@@ -25,8 +25,8 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/) 
     * [Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)
     * [Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)
-
-* [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
+* [Writing a Game Boy Emulator](https://cturt.github.io/cinoop.html)
+* [Write your own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 
 
 ## Computer Networking
