@@ -4,6 +4,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Table of Contents
 
+* [Computer Architecture](#computer-architecture)
 * [Computer Networking](#computer-networking)
 * [Databases](#databases)
 * [Game Development](#game-development)
